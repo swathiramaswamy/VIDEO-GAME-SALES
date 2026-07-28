@@ -1,22 +1,26 @@
-Video Game Sales Dashboard
+# 🎮 Video Game Sales Dashboard
 
-Project Overview
+## Project Overview
 
 This project analyzes global video game sales using Tableau. It provides interactive visualizations to help identify sales trends, top-performing games, publishers, platforms, and regional market performance.
 
-Objectives
+## Dashboard Preview
+
+![Video Game Sales Dashboard](dashboard.png)
+
+## Objectives
 
 - Analyze video game sales across North America, Europe, Japan, and Other Regions.
 - Identify top-selling games, genres, and publishers.
 - Create an interactive dashboard for business insights.
 
-Tools & Technologies
+## Tools & Technologies
 
 - Tableau Desktop
 - Microsoft Excel
 - Kaggle Dataset
 
-Dashboard Features
+## Dashboard Features
 
 - Global Sales Overview
 - Regional Sales Analysis
@@ -25,7 +29,7 @@ Dashboard Features
 - Publisher Performance
 - Interactive Filters
 
-Key Skills Demonstrated
+## Key Skills Demonstrated
 
 - Data Analysis
 - Data Visualization
@@ -33,13 +37,13 @@ Key Skills Demonstrated
 - Dashboard Design
 - Tableau
 
-Outcome
+## Outcome
 
 The dashboard enables users to explore sales performance across different regions and identify market trends through interactive visualizations.
 
-Author
+## Author
 
-Swathi R
+*Swathi R*
 
 📧 Swathiramaswamy1998@gmail.com
 
