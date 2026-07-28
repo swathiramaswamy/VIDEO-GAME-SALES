@@ -6,7 +6,7 @@ This project analyzes global video game sales using Tableau. It provides interac
 
 ## Dashboard Preview
 
-![Video Game Sales Dashboard](dashboard.png)
+![Video Game Sales Dashboard](Dashboard.png.png)
 
 ## Objectives
 
@@ -40,6 +40,12 @@ This project analyzes global video game sales using Tableau. It provides interac
 ## Outcome
 
 The dashboard enables users to explore sales performance across different regions and identify market trends through interactive visualizations.
+
+## Repository Contents
+
+- 📊 Video Game Sales.twbx (Tableau Dashboard)
+- 🖼️ Dashboard.png.png (Dashboard Screenshot)
+- 📄 README.md
 
 ## Author
 
